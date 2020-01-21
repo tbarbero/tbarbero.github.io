@@ -1,13 +1,12 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
+#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tyler Barbero / Site Title"
+title                    : "Tyler Barbero"
 title_separator          : "-"
 name                     : &name "Tyler Barbero"
 description              : &description "personal description"
@@ -81,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Tyler Barbero"
-  avatar           : "profile.png"
+  avatar           : "profile_picture"
   bio              : "4th year Undergraduate. B.S in Oceanic and Atmospheric Sciences. Minor in Mathematics at University of California, San Diego"
   location         : "La Jolla, CA"
   employer         :
