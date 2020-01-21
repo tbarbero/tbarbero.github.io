@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+'http://tbarbero.github.io/files/CV_FINAL.pdf'
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
