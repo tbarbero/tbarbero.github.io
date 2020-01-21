@@ -7,8 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-'http://tbarbero.github.io/files/CV_FINAL.pdf'
+# {% include base_path %}
+Find my CV [here](http://tbarbero.github.io/files/CV_FINAL.pdf)
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
