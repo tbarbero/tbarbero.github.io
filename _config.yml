@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Tyler Barbero"
   avatar           : "prof_pic_sq.jpg"
-  bio              : "Young, aspiring atmospheric scientist"
+  bio              : "Young, aspiring atmospheric scientist."
   location         : "San Diego, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "tbarbero@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/tbarbero"
+  github           : "tbarbero"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tylerbarbero/"
+  linkedin         : "tylerbarbero"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
