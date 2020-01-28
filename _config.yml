@@ -83,7 +83,7 @@ author:
   avatar           : "prof_pic_sq.jpg"
   bio              : "Young, aspiring atmospheric scientist."
   location         : "San Diego, CA"
-  employer         : # [Evan Research Lab](https://aevan.scrippsprofiles.ucsd.edu/)
+  employer         : [Evan Research Lab](https://aevan.scrippsprofiles.ucsd.edu/)
   university       : "UC San Diego"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
