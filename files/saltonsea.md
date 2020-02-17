@@ -1,5 +1,5 @@
 ---
-title: "Dust Storms and the Salton Sea
+title: "Dust Storms and the Salton Sea"
 permalink: /files/saltonsea.md
 ---
 
