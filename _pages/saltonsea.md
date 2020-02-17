@@ -1,5 +1,6 @@
 ---
 title: "Dust Storms and the Salton Sea"
+collection: _pages
 permalink: /pages/saltonsea.md
 ---
 
