@@ -12,4 +12,4 @@ Plotted with MetPy.
 [Sounding](https://tbarbero.github.io/images/SkewTLogP_ScrippsPier.png)
 
 Soundings from Sonde launches (4) 02/22, Salton Sea - USSAL
-[Soundings](https://tbarbero.github.io/files/USSAL_2020022.pdf)
+[Soundings](https://tbarbero.github.io/files/USSAL_20200222.pdf)
