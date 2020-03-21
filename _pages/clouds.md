@@ -11,6 +11,6 @@ redirect_from:
 ---
 
 <figure>
-   <img src="tbarbero.github.io/files/valley_cloud.jpg" alt="Cloud in the Valley"
+   <img src="tbarbero.github.io/files/valley_cloud.jpg" alt="Cloud in the Valley">
    <figcaption>Cloud rolling through the valley.</figcaption>
 </figure>
