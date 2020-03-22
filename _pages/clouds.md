@@ -4,7 +4,7 @@ title: "Clouds"
 permalink: /clouds/
 author_profile: true
 gallery:
-  - url: /images/valley_cloud.jpg
+  - url: tbarbero.github.io/images/valley_cloud.jpg
     image_path: /images/valley_cloud.jpg
     alt: "Cloud advecting through the Valley, Anza Borrego Desert."
     title: "Valley Cloud"
