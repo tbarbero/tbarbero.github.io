@@ -13,5 +13,6 @@ gallery:
     alt: "Hole Punch Cloud above Scripps Institution of Oceanography"
     title: "Hole Punch Cloud above Scripps"
 ---
+<figure>
 {% include gallery id="gallery" layout="half" %}
-
+</figure>
