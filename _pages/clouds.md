@@ -1,5 +1,5 @@
 ---
-layout: splash
+#layout: splash
 title: "Clouds"
 permalink: /clouds/
 author_profile: true
@@ -13,6 +13,6 @@ gallery:
     alt: "Hole Punch Cloud above Scripps Institution of Oceanography"
     title: "Hole Punch Cloud above Scripps"
 ---
-<figure>
+#<figure>
 {% include gallery id="gallery" layout="half" %}
-</figure>
+#</figure>
