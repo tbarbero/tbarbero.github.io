@@ -14,6 +14,8 @@ gallery:
     title: "Hole Punch Cloud above Scripps"
 ---
 <figure>
+  <img src="/images/hole_punch_cloud.jpg">
+  <figcaption>Hole Punch Cloud above Scripps.</figcaption>
   <img src="/images/valley_cloud.jpg">
   <figcaption>Cloud advecting through the Valley, Anza-Borrego Desert.</figcaption>
-  </figure>
+</figure>
