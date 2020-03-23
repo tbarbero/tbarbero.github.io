@@ -1,6 +1,6 @@
 ---
 #layout: splash
-title: "Clouds"
+title: Clouds
 permalink: /clouds/
 author_profile: true
 gallery:
@@ -13,4 +13,7 @@ gallery:
     alt: "Hole Punch Cloud above Scripps Institution of Oceanography"
     title: "Hole Punch Cloud above Scripps"
 ---
-{% include gallery layout="third" %}
+<figure>
+  <img src="/images/valley_cloud.jpg">
+  <figcaption>Cloud advecting through the Valley, Anza-Borrego Desert.</figcaption>
+  </figure>
