@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Find my CV [here.](http://tbarbero.github.io/files/CV_FINAL.pdf)
+Find my CV [here.](http://tbarbero.github.io/files/Barbero_Tyler_CV.pdf)
