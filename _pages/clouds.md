@@ -3,7 +3,7 @@
 title: Clouds and the Atmosphere
 permalink: /clouds/
 author_profile: true
-gallery:
+gallery1:
   - url: /images/valley_cloud.jpg
     image_path: /images/valley_cloud.jpg
     alt: "Cloud advecting through the Valley, Anza Borrego Desert."
@@ -12,12 +12,13 @@ gallery:
     alt: "Hole Punch Cloud above Scripps Institution of Oceanography"
     title: "Hole Punch Cloud above Scripps"
 gallery2:
-  - url: https://flic.kr/p/2iKtEWT
-    image_path: https://live.staticflickr.com/65535/49718765967_543de02066_k.jpg
-  - url: https://flic.kr/p/2iKs5xU
-    image_path: https://live.staticflickr.com/65535/49718455146_3581d4fc07_k.jpg
-  - url: https://flic.kr/p/2iKpjzE
-    image_path: https://live.staticflickr.com/65535/49717917008_badee8685b_k.jpg
+  - url: https://flic.kr/p/2iKwpDg
+    image_path: https://live.staticflickr.com/65535/49719299821_06bd9ac300_k.jpg
+  - url: https://flic.kr/p/2iKy286
+    image_path: https://live.staticflickr.com/65535/49719614287_869b08aaab_k.jpg
+  - url: https://flic.kr/p/2iKy27E
+    image_path: https://live.staticflickr.com/65535/49719614262_55e4e12f51_k.jpg 
+
 ---
 <figure>
   <img src="/images/hole_punch_cloud.jpg">
