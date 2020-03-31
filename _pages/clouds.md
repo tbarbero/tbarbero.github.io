@@ -13,7 +13,7 @@ gallery:
     title: "Hole Punch Cloud above Scripps"
 gallery2:
   - url: https://flic.kr/p/2iKtEWT
-    image_path: /images/cloud_pics/gc_a.jpg
+    image_path: https://live.staticflickr.com/65535/49718765967_543de02066_k.jpg
   - url: https://flic.kr/p/2iKs5xU
     image_path: /images/cloud_pics/gc_b.jpg
   - url: https://flic.kr/p/2iKpjzE
@@ -27,4 +27,4 @@ gallery2:
   <img src="/images/cloud_pics/gravity_wave_corona.jpg">
   <figcaption>Gravity Wave Cloud with a Corona by our Salton Sea Research Site.</figcaption>
 </figure>
-{% include gallery2 id="gallery2" caption="Gravity Wave Cloud and Corona Evolution." %}
+{% include gallery id="gallery2" caption="Gravity Wave Cloud and Corona Evolution." %}
