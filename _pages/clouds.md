@@ -1,6 +1,6 @@
 ---
 #layout: splash
-title: Clouds
+title: Appreciation for Clouds and the Atmosphere
 permalink: /clouds/
 author_profile: true
 gallery:
@@ -27,4 +27,4 @@ gallery2:
   <img src="/images/cloud_pics/gravity_wave_corona.jpg">
   <figcaption>Gravity Wave Cloud with a Corona by our Salton Sea Research Site.</figcaption>
 </figure>
-{% include gallery id="gallery2" caption="Gravity Wave Cloud and Corona Evolution." %}
+{% include gallery2 id="gallery2" caption="Gravity Wave Cloud and Corona Evolution." %}
