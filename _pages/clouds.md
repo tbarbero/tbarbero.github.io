@@ -26,4 +26,5 @@ gallery2:
   <figcaption>Cloud advecting through the Valley, Anza-Borrego Desert.</figcaption>
   <img src="/images/cloud_pics/gravity_wave_corona.jpg'>
   <figcaption>Gravity Wave Cloud with a Corona by our Salton Sea Research Site.</figcaption>
+</figure>
 {% include gallery id="gallery2" caption="Gravity Wave Cloud and Corona Evolution." %}
