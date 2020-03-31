@@ -21,11 +21,9 @@ gallery2:
 
 ---
 <figure>
-  <img src="/images/hole_punch_cloud.jpg">
-  <figcaption>Hole Punch Cloud above Scripps.</figcaption>
-  <img src="/images/valley_cloud.jpg">
-  <figcaption>Cloud advecting through the Valley, Anza-Borrego Desert.</figcaption>
-  <img src="/images/cloud_pics/gravity_wave_corona.jpg">
-  <figcaption>Gravity Wave Cloud with a Corona by our Salton Sea Research Site.</figcaption>
+  <img src="/images/cloud_pics/hole_punch_cloud.jpg" url="https://flic.kr/p/2iKtEUD" caption="Hole-Punch Cloud above Scripps.">
+  <img src="/images/cloud_pics/valley_cloud.jpg" url="https://flic.kr/p/2iKs5uh" caption="Cloud advection through the Valley, Anza-Borrego Desert.">
+  <img src="/images/cloud_pics/gravity_wave_corona.jpg" url="https://flic.kr/p/2iKpjz9" caption="Gravity Wave Cloud with a 
+Corona by our Salton Sea Research Site.">
 </figure>
 {% include gallery id="gallery2" caption="Gravity Wave Cloud and Corona Evolution." %}
