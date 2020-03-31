@@ -15,8 +15,8 @@ gallery2:
   - url: https://flic.kr/p/2iKtEWT
     image_path: https://live.staticflickr.com/65535/49718765967_543de02066_k.jpg
   - url: https://flic.kr/p/2iKs5xU
-    image_path: /images/cloud_pics/gc_b.jpg
-  - url: https://flic.kr/p/2iKpjzE
+    image_path: https://live.staticflickr.com/65535/49718455146_3581d4fc07_k.jpg
+  - url: https://live.staticflickr.com/65535/49717917008_badee8685b_k.jpg
     image_path: /images/cloud_pics/gc_c.jpg
 ---
 <figure>
