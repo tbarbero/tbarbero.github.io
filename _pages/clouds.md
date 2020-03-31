@@ -18,10 +18,9 @@ gallery2:
     image_path: https://live.staticflickr.com/65535/49719614287_869b08aaab_k.jpg
   - url: https://flic.kr/p/2iKy27E
     image_path: https://live.staticflickr.com/65535/49719614262_55e4e12f51_k.jpg 
-
 ---
 <figure>
-  <img src="/images/cloud_pics/hole_punch_cloud.jpg" url="https://flic.kr/p/2iKtEUD" caption="Hole-Punch Cloud above Scripps.">
+  <img src="/images/cloud_pics/hole_punch_cloud.jpg" image_path="https://flic.kr/p/2iKtEUD" caption="Hole-Punch Cloud above Scripps.">
   <img src="/images/cloud_pics/valley_cloud.jpg" url="https://flic.kr/p/2iKs5uh" caption="Cloud advection through the Valley, Anza-Borrego Desert.">
   <img src="/images/cloud_pics/gravity_wave_corona.jpg" url="https://flic.kr/p/2iKpjz9" caption="Gravity Wave Cloud with a 
 Corona by our Salton Sea Research Site.">
