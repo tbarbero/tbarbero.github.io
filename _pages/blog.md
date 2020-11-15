@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 **Useful Resources:** <br />
+<a href="https://www.youtube.com/watch?v=fuqIKAOpVN0" target="_blank">Clapeyron and Clausis-Clapeyron Derivation (video)</a> <br />
 [Clapeyron and Clausis-Clapeyron Derivation (video)](https://www.youtube.com/watch?v=fuqIKAOpVN0){target="_blank"} <br />
 [Rossby PV Example](http://www.atms.unca.edu/chennon/notes/atms310/pv.pdf){target="_blank"} (Lecture: atms.unca.edu) <br />
 [Intuition for Amospheric Waves Breaking](https://www.youtube.com/watch?v=tJt--K8a3FM&feature=emb_logo){target="_blank"} (video, Geophysical Sciences U.Chicago)< br />
