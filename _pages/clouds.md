@@ -3,6 +3,9 @@
 title: Clouds and the Atmosphere
 permalink: /clouds/
 author_profile: true
+
+![Undulatus Asperatus](files/undulatus_asperatus.gif)
+
 gallery1:
   - url: /images/valley_cloud.jpg
     image_path: /images/valley_cloud.jpg
@@ -23,12 +26,15 @@ gallery2:
   <img src="/images/cloud_pics/hole_punch_cloud.jpg">
   <figcaption>Hole-Punch Cloud above Scripps.</figcaption>
 </figure> 
+
 <figure>
   <img src="/images/cloud_pics/valley_cloud.jpg">
   <figcaption>Cloud advecting through the valley, Anza-Borrego Desert.</figcaption>
 </figure>
+
 <figure>
   <img src="/images/cloud_pics/gravity_wave_corona.jpg">
   <figcaption>Gravity Wave Cloud with a Corona by our Salton Sea Research Site.</figcaption>
 </figure>
+
 {% include gallery id="gallery2" caption="Gravity Wave Cloud and Corona Evolution." %}
