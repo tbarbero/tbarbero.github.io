@@ -4,6 +4,7 @@ title: Clouds and the Atmosphere
 permalink: /clouds/
 author_profile: true
 
+<img src="files/undulatus_asperatus.gif" width="40" height ="40" />
 gallery1:
   - url: /files/undulatus_asperatus.gif
     image_path: /files/undulatus_asperatus.gif
