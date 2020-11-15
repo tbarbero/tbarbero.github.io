@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 **Useful Resources:** <br />
-[Clapeyron and Clausis-Clapeyron Derivation (video)](https://www.youtube.com/watch?v=fuqIKAOpVN0) <br />
-[Rossby PV Example, atms.unca.edu](http://www.atms.unca.edu/chennon/notes/atms310/pv.pdf) <br />
-[Intuition for Amospheric Waves Breaking (video, UChiaco Geophysical Sciences) ](https://www.youtube.com/watch?v=tJt--K8a3FM&feature=emb_logo) <br />
+[Clapeyron and Clausis-Clapeyron Derivation (video)](https://www.youtube.com/watch?v=fuqIKAOpVN0){target="_blank"} <br />
+[Rossby PV Example](http://www.atms.unca.edu/chennon/notes/atms310/pv.pdf){target="_blank"} (Lecture: atms.unca.edu) <br />
+[Intuition for Amospheric Waves Breaking](https://www.youtube.com/watch?v=tJt--K8a3FM&feature=emb_logo){target="_blank"} (video, Geophysical Sciences U.Chicago)< br />
 
 
 Advice for applying to REU's: [How to get your first REU](https://docs.google.com/document/d/1Dh7viUxAxznz3TPvxMsK3dZ48Izej91-Ei4RhzjEKRc/edit?usp=sharing)
