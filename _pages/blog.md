@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 **Useful Resources:** <br />
-[Clapeyron and Clausis-Clapeyron Derivation (video)](https://www.youtube.com/watch?v=fuqIKAOpVN0)
-
+[Clapeyron and Clausis-Clapeyron Derivation (video)](https://www.youtube.com/watch?v=fuqIKAOpVN0) <br />
+[Rossby PV Example, atms.unca.edu](http://www.atms.unca.edu/chennon/notes/atms310/pv.pdf) <br />
 
 
 
