@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Find my CV [here.](http://tbarbero.github.io/files/Barbero_Tyler_CV.pdf)
+Link to my <a href="http://tbarbero.github.io/files/Barbero_Tyler_CV.pdf" target="_blank"> CV </a>.
