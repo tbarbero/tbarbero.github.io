@@ -3,8 +3,6 @@
 title: Clouds and the Atmosphere
 permalink: /clouds/
 author_profile: true
-
-<img src="tbarbero.github.io/files/undulatus_asperatus.gif" width="40" height ="40" />
 gallery1:
   - url: /files/undulatus_asperatus.gif
     image_path: /files/undulatus_asperatus.gif
@@ -25,6 +23,10 @@ gallery2:
   - url: https://flic.kr/p/2iKy27E
     image_path: https://live.staticflickr.com/65535/49719614262_55e4e12f51_k.jpg 
 ---
+<figure>
+  <img src="/files/undulatus_asperatus.gif">
+  <figcaption>Undulatus Aserpatus.</figcaption>
+</figure>
 <figure>
   <img src="/images/cloud_pics/hole_punch_cloud.jpg">
   <figcaption>Hole-Punch Cloud above Scripps.</figcaption>
