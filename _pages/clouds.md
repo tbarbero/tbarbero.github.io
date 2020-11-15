@@ -4,9 +4,13 @@ title: Clouds and the Atmosphere
 permalink: /clouds/
 author_profile: true
 
-![Undulatus Asperatus](files/undulatus_asperatus.gif)
+#![Undulatus Asperatus](files/undulatus_asperatus.gif)
 
 gallery1:
+  - url: /files/undulatus_asperatus.gif
+    image_path: /files/undulatus_asperatus.gif
+    alt: "Undulatus Asperatus"
+    title: "Undulatus Asperatus"
   - url: /images/valley_cloud.jpg
     image_path: /images/valley_cloud.jpg
     alt: "Cloud advecting through the Valley, Anza Borrego Desert."
