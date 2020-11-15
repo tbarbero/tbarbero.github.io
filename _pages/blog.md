@@ -4,8 +4,8 @@ permalink: /blog/
 author_profile: true
 ---
 
-**Useful Resources:**
-[Clapeyron and Clausis-Clapeyron Derivation](https://www.youtube.com/watch?v=fuqIKAOpVN0)
+**Useful Resources:** <br />
+[Clapeyron and Clausis-Clapeyron Derivation (video)](https://www.youtube.com/watch?v=fuqIKAOpVN0)
 
 
 
