@@ -25,7 +25,7 @@ gallery2:
 ---
 <figure>
   <img src="/files/undulatus_asperatus.gif">
-  <figcaption>Undulatus Aserpatus.</figcaption>
+  <figcaption>Undulatus Aserpatus. [Credit to Alex Schueth.](https://www.youtube.com/watch?v=Jz7BgxrVmiQ&feature=emb_title)</figcaption>
 </figure>
 <figure>
   <img src="/images/cloud_pics/hole_punch_cloud.jpg">
