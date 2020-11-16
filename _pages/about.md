@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm a fourth year undergraduate at Scripps Institution of Oceanograpy studying Oceanic and Atmospheric Science with a minor in mathematics. I work in the Evan Research Lab researching dust storm meteorology. I am utilizing a GNSS receiver to retrieve precipitable water vapor. This quantity helps us to improve our understanding of the underlying physics of dust storms within the Salton Basin. Implications include improvement of the representation of dust in climate models and modeling regional dust activity. 
-
-I am open to exploring different research topics; however, of this moment my research interests include weather and climate dynamics, thermodynamics and cloud physics, and modeling. For the summer of 2020, I was accepted into the CIMES Fellowship, a Princeton-GFDL collaboration, working under Jan-Huey Chen. The project is, "Evaluating the Impacts of Initial Conditions on Hurricane Movement in High-Resolution Global Models". In my leisure time, you might find me rock-climbing, surfing, or taking pictures of clouds.    
+I'm a senior at the Scripps Institution of Oceanograpy @ UC San Diego. I will be getting my B.S. in Oceanic and Atmospheric Sciences with a minor in Mathematics Decemeber 2020. I hope to enter a graduate program starting Fall 2021.
+My primary interests are in large-scale atmospheric dynamics particularily waves and how they influence regional weather, teleconnections. Some others interests lie in clouds and mountain meteorology. 
+My current research is investigating a diurnal cycle of background dustiness in the Salton basin which we think is forced by thermally-driven mountain-valley flows and convection due to the deepening of the atmospheric boundary layer. We conduct research through a combination of observations, theory and modeling. (Advisor: Amato Evan.)
+During the 2021 Summer, I will be working at Princeton/GFDL as a CIMES intern onEvaluating the Impacts of Initial Conditions on Hurricane Movement in High-Resolution Global Models under Jan-Huey Chen.
+I'm also passionate about teaching and mentoring. The atmosphere infinitely beautiful and fascinating, and I hope to inspire the same motivation in students through teaching and mentoring, especially those who are underrepresented in the physical sciences.
+In my leisure time, I love to surf, catch up on TV-shows and admire clouds.
