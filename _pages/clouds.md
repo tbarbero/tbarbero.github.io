@@ -1,7 +1,7 @@
 ---
 #layout: splash
 title: Clouds and the Atmosphere
-permalink: /clouds/
+permalink: /visuals/
 author_profile: true
 gallery1:
   - url: /files/undulatus_asperatus.gif
