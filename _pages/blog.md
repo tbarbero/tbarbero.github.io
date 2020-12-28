@@ -1,21 +1,19 @@
 ---
-title: "Blog"
-permalink: /blog/
+title: "Resources"
+permalink: /resources/
 author_profile: true
 ---
 
-**Useful Resources:** <br />
+#Resources that I find useful:<br />
+**Thermodynamics**<br />
 <a href="https://www.youtube.com/watch?v=fuqIKAOpVN0" target="_blank">Clapeyron and Clausis-Clapeyron Derivation (video)</a> <br />
+**Atmospheric Dynamics**<br />
 <a href="http://www.atms.unca.edu/chennon/notes/atms310/pv.pdf" target="_blank">Rossby PV Example (Lecture: atms.unca.edu)</a> <br />
 <a href="https://www.youtube.com/watch?v=tJt--K8a3FM&feature=emb_logo" target="_blank">Intuition for Amospheric Waves Breaking (video: Geophysical Sciences U.Chicago)</a> < br />
+**Mathematics**<br />
+1. Linear Algebra Primer [(atmos.UW)](https://atmos.uw.edu/~hakim/591/LA_primer.pdf]
+2. Numerical Linear Algebra[John Lambert, GeorgiaTech](https://johnwlambert.github.io/direct-methods/)
+3. Probability/Statistics Primer [(atmos.UW)](https://atmos.uw.edu/~hakim/591/prob_primer.pdf)
 
-
-Advice for applying to REU's: [How to get your first REU](https://docs.google.com/document/d/1Dh7viUxAxznz3TPvxMsK3dZ48Izej91-Ei4RhzjEKRc/edit?usp=sharing)
-
-Skew-T Log-P For Scripps Pier Balloon Launch:
-Data provided by Center for Western Weather and Water Extremes(CW3E). <br />
-Plotted with MetPy. 
-[Sounding](https://tbarbero.github.io/images/SkewTLogP_ScrippsPier.png)
-
-Soundings from Sonde launches (4) 02/22, Salton Sea - USSAL
-[Soundings](https://tbarbero.github.io/files/USSAL_20200222.pdf)
+**Miscellaneous**<br>
+[Internship Application Advice](https://docs.google.com/document/d/1Dh7viUxAxznz3TPvxMsK3dZ48Izej91-Ei4RhzjEKRc/edit?usp=sharing)

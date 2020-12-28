@@ -11,14 +11,12 @@ main:
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /blog/
 
-#  - title: "Coursework
-  
   - title: "CV"
     url: /cv/
+        
+  - title: "Resources"
+    url: /resources/
   
   - title: "Visuals"
     url: /visuals/
