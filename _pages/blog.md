@@ -12,7 +12,7 @@ author_profile: true
 <a href="https://www.youtube.com/watch?v=tJt--K8a3FM&feature=emb_logo" target="_blank">Intuition for Amospheric Waves Breaking (video: Geophysical Sciences U.Chicago)</a> < br />
 **Mathematics**<br />
 1. Linear Algebra Primer [(atmos.UW)](https://atmos.uw.edu/~hakim/591/LA_primer.pdf)
-2. Numerical Linear Algebra Primer[(John Lambert, GeorgiaTech)](https://johnwlambert.github.io/direct-methods/)
+2. Numerical Linear Algebra Primer [(John Lambert, GeorgiaTech)](https://johnwlambert.github.io/direct-methods/)
 3. Probability/Statistics Primer [(atmos.UW)](https://atmos.uw.edu/~hakim/591/prob_primer.pdf)
 
 **Miscellaneous**<br>
