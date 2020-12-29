@@ -14,5 +14,5 @@ Link to my <a href="http://tbarbero.github.io/files/Barbero_Tyler_CV.pdf" target
 SIO175 Term Project<br />
 SIOC217A Term Project<br />
 *Undergraduate Research Scholarship (URS):*<br />
-URS Summer 2020 Summary<br />
+[URS Summer 2020 Summary](https://github.com/tbarbero/Summer_2020/blob/master/2020_Research_Summary.pdf)<br />
 URS Summer 2019 Summary<br />
