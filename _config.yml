@@ -35,8 +35,7 @@ staticman:
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
+  moderation     tyler.barbero@colostate.edupath                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -81,13 +80,13 @@ analytics:
 author:
   name             : "Tyler Barbero"
   avatar           : "Picture1.jpg"
-  bio              : "Aspiring atmospheric scientist."
-  location         : "San Diego, CA"
-  employer         : "https://aevan.scrippsprofiles.ucsd.edu/"
-  university       : "UC San Diego"
+  bio              : "Graduate Student | Colorado State University"
+  location         : "Santa Clara, CA"
+  employer         :
+  university       :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "tbarbero@ucsd.edu"
+  email            : "tyler.barbero@colostate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
