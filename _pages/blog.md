@@ -23,7 +23,7 @@ Climate Downscaling [(GFDL)](https://www.gfdl.noaa.gov/climate-model-downscaling
 
 Data Assimilation and Kalman Filter [(ESA)](https://earth.esa.int/documents/973910/1002056/DA2.pdf/9cd3c6c8-7d89-400d-8c9c-df33259f47c2){target="_blank"} <br />
 
-Fluid Dynamics Review [(PotentialFlow (tabs))](https://potentialflow.com/story){target="_blank"} <br />
+Fluid Dynamics Review [(PotentialFlow (tabs))](https://potentialflow.com/story){:target="_blank"} <br />
 
 **Miscellaneous**<br>
 [Internship Application Advice](https://docs.google.com/document/d/1Dh7viUxAxznz3TPvxMsK3dZ48Izej91-Ei4RhzjEKRc/edit?usp=sharing){target="_blank"}
