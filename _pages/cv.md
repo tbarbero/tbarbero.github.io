@@ -11,26 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Atmospheric Science,Colorado State University, 2027 (expected)
+* M.S. in Atmospheric Science, Colorado State University, 2023
+* B.S. in Ocean & Atmospheric Science, University of California San Diego, 2020
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Carl-Gustaf Rossbypalooza Summer School, 2024 
+  * University of Chicago
+  * Project: Investigating Tropical Rainfall and Convection using a Stationary Wave Model 
+  * Supervisor: Prof. William Boos
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant 2021-2024
+  * Colorado State University  
+  * Supervisor: Prof. Michael Bell 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Research Assistant 2018-2020 
+  * Scripps Institution of Oceanography 
+  * Supervisor: Prof. Amato Evan
   
 Skills
 ======

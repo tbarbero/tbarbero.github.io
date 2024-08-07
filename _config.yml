@@ -12,7 +12,7 @@ title                    : "Tyler Barbero"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://tbarbero.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tbarbero.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tbarbero.github.io" 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -20,13 +20,13 @@ repository               : "tbarbero.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot2024.jpg"
+  avatar           : "headshot2024zoomed.jpg"
   name             : "Tyler Barbero"
   pronouns         : # example: "she/her"  
-  bio              : # "PhD candidate"
+  bio              : ""
   location         : "Fort Collins, CO"
   employer         : "Colorado State University"
-  uri              : # URL
+  uri              : https://tropical.colostate.edu 
   email            : "tbarbero@colostate.edu" 
 
   # Academic websites
