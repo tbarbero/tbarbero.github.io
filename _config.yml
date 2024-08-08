@@ -26,7 +26,7 @@ author:
   bio              : "Ph.D. Candidate"
   location         : "Fort Collins, CO"
   employer         : "Colorado State University"
-  uri              : [Tropical](https://tropical.colostate.edu) 
+  uri              : https://tropical.colostate.edu 
   email            : "tbarbero@colostate.edu" 
 
   # Academic websites
