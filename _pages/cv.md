@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Tyler Barbero's Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,54 +9,75 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D Atmospheric Science,Colorado State University, 2027 (expected)
+
+**Education**
+
+---
+
+* Ph.D in Atmospheric Science, Colorado State University, --- 
 * M.S. in Atmospheric Science, Colorado State University, 2023
 * B.S. in Ocean & Atmospheric Science, University of California San Diego, 2020
 
-Research Experience
-======
-* Carl-Gustaf Rossbypalooza Summer School, 2024 
-  * University of Chicago
-  * Project: Investigating Tropical Rainfall and Convection using a Stationary Wave Model 
-  * Supervisor: Prof. William Boos
+**Professional Appointments**
 
-* Graduate Research Assistant 2021-2024
-  * Colorado State University  
-  * Supervisor: Prof. Michael Bell 
+---
 
-* Undergraduate Research Assistant 2018-2020 
-  * Scripps Institution of Oceanography 
-  * Supervisor: Prof. Amato Evan
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**2024 Summer** Carl-Gustaf Rossbypalooza Summer School, University of Chicago 
+* Host: William Boos
+* Project: Using a New, High-resolution Solver to Understand Tropical Stationary Waves Forced by the Thermal and Mechanical Effects of Orography 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**2021 Fall - 2018 Spring** Graduate Research Assistant (M.S.), Colorado State University
+* Advisor: Michael Bell
+* Thesis: A Potential Vorticity Diagnosis of Tropical Cyclone Track Forecast Errors 
+
+**2021 Summer** Research Intern, Geophysical Fluid Dynamics Laboratory, Princeton
+* Host: Jan-Huey Chen
+* Topic: Evaluating the Impacts of Initial Conditions on Hurricane Movement in the High-Resolution Global Models
+
+**2019 Spring - 2020 Fall** Undergraduate Research Assistant (B.S.), Scripps Institution of Oceanography, UC San Diego 
+* Advisor: Amato Evan
+* Topic: Mechanisms Forcing the Diurnal Cycle of Dust in an Arid Closed Basin
+
+
+**Teaching and Mentoring**
+
+---
+
+2024 Summer Research Co-Mentor, Research Experience for Undergraduates Program in Earth System Science, Colorado State University
+
+2024 May Guest Lecturer, General Circulation and Tropical Dynamics, Air Force Institute of Technology, Lt. Col. Chandra Pasillas 
+
+
+**Service**
+
+---
+
+2022 Summer - 2024 Summer Graduate Student Chapter, American Meteorological Society
+
+2022 May Student Volunteer for the 35th Conference on Hurricanes and Tropical Meteorology
+ 
+
+**Field Experience**
+
+---
+
+2023 Summer BioAerosols and Convective Storms Phase II (BACS-II), Nunn, CO
+
+2019 Spring - 2020 Fall Dust in the Salton Basin, Imperial, CA 
+
+
+**Honors and Awards** 
+
+--- 
+
+Summer 2020 Philip and Elizabeth Hiestand Undergraduate Research Scholarship
+
+Summer 2019 Philip and Elizabeth Hiestand Undergraduate Research Scholarship
+
+
+**Skills**
+
+---
+
+Programming:
+* Data Analysis: Python, Julia, Shell-scripting

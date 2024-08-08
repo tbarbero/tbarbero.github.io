@@ -23,10 +23,10 @@ author:
   avatar           : "headshot2024zoomed.jpg"
   name             : "Tyler Barbero"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Ph.D. Candidate"
   location         : "Fort Collins, CO"
   employer         : "Colorado State University"
-  uri              : https://tropical.colostate.edu 
+  uri              : [Tropical](https://tropical.colostate.edu) 
   email            : "tbarbero@colostate.edu" 
 
   # Academic websites
