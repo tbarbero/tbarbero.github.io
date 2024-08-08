@@ -21,13 +21,15 @@ redirect_from:
 **Professional Appointments**
 
 ---
+**2023 Summer -** Graduate Research Assistant (Ph.D.), Colorado State University
+* Advisor: Michael M. Bell
 
 **2024 Summer** Carl-Gustaf Rossbypalooza Summer School, University of Chicago 
-* Host: William Boos
+* Host: William R. Boos
 * Project: Using a New, High-resolution Solver to Understand Tropical Stationary Waves Forced by the Thermal and Mechanical Effects of Orography 
 
-**2021 Fall - 2018 Spring** Graduate Research Assistant (M.S.), Colorado State University
-* Advisor: Michael Bell
+**2021 Fall - 2023 Spring** Graduate Research Assistant (M.S.), Colorado State University
+* Advisor: Michael M. Bell
 * Thesis: A Potential Vorticity Diagnosis of Tropical Cyclone Track Forecast Errors 
 
 **2021 Summer** Research Intern, Geophysical Fluid Dynamics Laboratory, Princeton
@@ -35,7 +37,7 @@ redirect_from:
 * Topic: Evaluating the Impacts of Initial Conditions on Hurricane Movement in the High-Resolution Global Models
 
 **2019 Spring - 2020 Fall** Undergraduate Research Assistant (B.S.), Scripps Institution of Oceanography, UC San Diego 
-* Advisor: Amato Evan
+* Advisor: Amato T. Evan
 * Topic: Mechanisms Forcing the Diurnal Cycle of Dust in an Arid Closed Basin
 
 
