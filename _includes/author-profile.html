@@ -152,7 +152,12 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+      
+      {% if author.groupwebsite %}
+        <li><a href="{{ author.groupwebsite }}" target="_blank" rel="noopener"><i class="fa-solid fa-hurricane"></i>CSU Tropical</a></li>
+      {% endif %}
+
     </ul>
   </div>
 </div>

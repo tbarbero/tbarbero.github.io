@@ -26,7 +26,7 @@ author:
   bio              : "Ph.D. Candidate"
   location         : "Fort Collins, CO"
   employer         : "Colorado State University"
-  uri              : https://tropical.colostate.edu 
+  uri              : # 
   email            : "tbarbero@colostate.edu" 
 
   # Academic websites
@@ -47,6 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  groupwebsite     : https://tropical.colostate.edu/
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username

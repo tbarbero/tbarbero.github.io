@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-**Education**
+##Education
 
 ---
 
@@ -18,21 +18,22 @@ redirect_from:
 * M.S. in Atmospheric Science, Colorado State University, 2023
 * B.S. in Ocean & Atmospheric Science, University of California San Diego, 2020
 
-**Professional Appointments**
+##Professional Appointments
 
 ---
-**2023 Summer -** Graduate Research Assistant (Ph.D.), Colorado State University
-* Advisor: Michael M. Bell
 
 **2024 Summer** Carl-Gustaf Rossbypalooza Summer School, University of Chicago 
 * Host: William R. Boos
 * Project: Using a New, High-resolution Solver to Understand Tropical Stationary Waves Forced by the Thermal and Mechanical Effects of Orography 
 
+**2023 Summer - current** Graduate Research Assistant (Ph.D.), Colorado State University
+* Advisor: Michael M. Bell
+
 **2021 Fall - 2023 Spring** Graduate Research Assistant (M.S.), Colorado State University
 * Advisor: Michael M. Bell
 * Thesis: A Potential Vorticity Diagnosis of Tropical Cyclone Track Forecast Errors 
 
-**2021 Summer** Research Intern, Geophysical Fluid Dynamics Laboratory, Princeton
+**2021 Summer** Research Intern, Geophysical Fluid Dynamics Laboratory, Princeton University
 * Host: Jan-Huey Chen
 * Topic: Evaluating the Impacts of Initial Conditions on Hurricane Movement in the High-Resolution Global Models
 
@@ -41,7 +42,7 @@ redirect_from:
 * Topic: Mechanisms Forcing the Diurnal Cycle of Dust in an Arid Closed Basin
 
 
-**Teaching and Mentoring**
+##Teaching and Mentoring
 
 ---
 
@@ -50,7 +51,7 @@ redirect_from:
 2024 May Guest Lecturer, General Circulation and Tropical Dynamics, Air Force Institute of Technology, Lt. Col. Chandra Pasillas 
 
 
-**Service**
+##Service
 
 ---
 
@@ -59,7 +60,7 @@ redirect_from:
 2022 May Student Volunteer for the 35th Conference on Hurricanes and Tropical Meteorology
  
 
-**Field Experience**
+##Field Experience
 
 ---
 
@@ -68,7 +69,7 @@ redirect_from:
 2019 Spring - 2020 Fall Dust in the Salton Basin, Imperial, CA 
 
 
-**Honors and Awards** 
+##Honors and Awards 
 
 --- 
 
@@ -77,7 +78,7 @@ Summer 2020 Philip and Elizabeth Hiestand Undergraduate Research Scholarship
 Summer 2019 Philip and Elizabeth Hiestand Undergraduate Research Scholarship
 
 
-**Skills**
+##Skills
 
 ---
 
