@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-##Education
+## Education
 
 ---
 
@@ -18,7 +18,7 @@ redirect_from:
 * M.S. in Atmospheric Science, Colorado State University, 2023
 * B.S. in Ocean & Atmospheric Science, University of California San Diego, 2020
 
-##Professional Appointments
+## Professional Appointments
 
 ---
 
@@ -42,7 +42,7 @@ redirect_from:
 * Topic: Mechanisms Forcing the Diurnal Cycle of Dust in an Arid Closed Basin
 
 
-##Teaching and Mentoring
+## Teaching and Mentoring
 
 ---
 
@@ -51,7 +51,7 @@ redirect_from:
 2024 May Guest Lecturer, General Circulation and Tropical Dynamics, Air Force Institute of Technology, Lt. Col. Chandra Pasillas 
 
 
-##Service
+## Service
 
 ---
 
@@ -60,7 +60,7 @@ redirect_from:
 2022 May Student Volunteer for the 35th Conference on Hurricanes and Tropical Meteorology
  
 
-##Field Experience
+## Field Experience
 
 ---
 
@@ -69,7 +69,7 @@ redirect_from:
 2019 Spring - 2020 Fall Dust in the Salton Basin, Imperial, CA 
 
 
-##Honors and Awards 
+## Honors and Awards 
 
 --- 
 
@@ -78,7 +78,7 @@ Summer 2020 Philip and Elizabeth Hiestand Undergraduate Research Scholarship
 Summer 2019 Philip and Elizabeth Hiestand Undergraduate Research Scholarship
 
 
-##Skills
+## Skills
 
 ---
 
