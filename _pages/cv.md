@@ -23,7 +23,7 @@ redirect_from:
 
 ---
 
-**2024 Summer** Carl-Gustaf Rossbypalooza Summer School, University of Chicago 
+<span style="color:#1188bb">Carl-Gustaf Rossbypalooza Summer School</span>. University of Chicago.Summer 2024. 
 * Host: William R. Boos
 * Project: Using a New, High-resolution Solver to Understand Tropical Stationary Waves Forced by the Thermal and Mechanical Effects of Orography 
 
@@ -47,22 +47,24 @@ redirect_from:
 
 ---
 
-2024 Fall Graduate Teaching Assistant, Atmospheric Dynamics I, Colorado State University, Prof. David Thompson
+ATS 580: Science of Hurricanes. Colorado State University. Prof Michael M. Bell. Fall 2025
 
-2024 Summer Research Co-Mentor, Research Experience for Undergraduates Program in Earth System Science, Colorado State University
+ATS 601: Atmospheric Dynamics I. Colorado State University. Prof. David Thompson. Fall 2024
 
-2024 May Guest Lecturer, General Circulation and Tropical Dynamics, Air Force Institute of Technology, Lt. Col. Chandra Pasillas 
+Research Mentor for Research Experience for Undergraduates Program in Earth System Science. Colorado State University. Summer 2024
+
+Guest Lecturer for General Circulation and Tropical Dynamics. Air Force Institute of Technology. Prof. Chandra Pasillas. Fall 2024
 
 
 ## Service
 
 ---
 
-2024 Summer - ... CIRA and ATS Mentoring Program (CAMP) Leadership Team
+CIRA and ATS Mentoring Program (CAMP) Leadership Team. 2024-2026.
 
-2022 Summer - 2024 Summer Graduate Student Chapter Executive Board, American Meteorological Society
+Summer Graduate Student Chapter Executive Board, American Meteorological Society.
 
-2022 May Student Volunteer for the 35th Conference on Hurricanes and Tropical Meteorology
+2022 Student Volunteer for the 35th Conference on Hurricanes and Tropical Meteorology
  
 
 ## Field Experience
