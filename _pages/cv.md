@@ -19,72 +19,64 @@ redirect_from:
 * B.S. in Ocean & Atmospheric Science, University of California San Diego, 2020
 * Minor in Mathematics, University of California San Diego, 2020
 
-## Professional Appointments
+## Research Experience 
 
 ---
+<strong><span style="color:#1188bb">Graduate Research Assistant</span></strong>  
+Colorado State University, Department of Atmospheric Science. 2021-2026
+* Integrated idealized modeling, satellite observations, and balanced theory to investigate the initiation and organization of convection in tropical disturbances under the advisement of Prof. Michael M. Bell.
 
-<span style="color:#1188bb">Carl-Gustaf Rossbypalooza Summer School</span>. University of Chicago.Summer 2024. 
-* Host: William R. Boos
-* Project: Using a New, High-resolution Solver to Understand Tropical Stationary Waves Forced by the Thermal and Mechanical Effects of Orography 
+<strong><span style="color:#1188bb">Carl-Gustaf Rossbypalooza Summer School</span></strong>  
+University of Chicago, Summer 2024 
+* Investigation of diabatic forcing on upper-tropospheric subtropical cold anomalies exhibited during developing El Niño events using a three-dimensional stationary wave model, collaborating within a Ph.D.-level research team under the advisement of Prof. William Boos.
 
-**2023 Summer - current** Graduate Research Assistant (Ph.D.), Colorado State University
-* Advisor: Michael M. Bell
+<strong><span style="color:#1188bb">Geophysical Fluid Dynamics Laboratory</span></strong>  
+Princeton University, Princeton, NJ. Summer 2021
+* Quantified sources of tropical cyclone track forecast error for 2017 Atlantic major hurricanes using the piecewise potential vorticity inversion technique under advisement of Dr. Jan-Huey Chen.
 
-**2021 Fall - 2023 Spring** Graduate Research Assistant (M.S.), Colorado State University
-* Advisor: Michael M. Bell
-* Thesis: A Potential Vorticity Diagnosis of Tropical Cyclone Track Forecast Errors 
-
-**2021 Summer** Research Intern, Geophysical Fluid Dynamics Laboratory, Princeton University
-* Host: Jan-Huey Chen
-* Topic: Evaluating the Impacts of Initial Conditions on Hurricane Movement in the High-Resolution Global Models
-
-**2019 Spring - 2020 Fall** Undergraduate Research Assistant (B.S.), Scripps Institution of Oceanography, UC San Diego 
-* Advisor: Amato T. Evan
-* Topic: Mechanisms Forcing the Diurnal Cycle of Dust in an Arid Closed Basin
-
+<strong><span style="color:#1188bb">Scripps Institution of Oceanography</span></strong>  
+University of California San Diego, La Jolla, CA. 2018-2020
+* Led an undergraduate research project identifying meteorological mechanisms driving the diurnal cycle of dust aerosols in the Salton Basin under the advisement of Prof. Amato T. Evan.
 
 ## Teaching and Mentoring
 
 ---
 
-ATS 580: Science of Hurricanes. Colorado State University. Prof Michael M. Bell. Fall 2025
+<strong><span style="color:#1188bb">Graduate Teaching Assistant</span></strong> for ATS 580: Science of Hurricanes. Colorado State University. Prof Michael M. Bell. Fall 2025
 
-ATS 601: Atmospheric Dynamics I. Colorado State University. Prof. David Thompson. Fall 2024
+<strong><span style="color:#1188bb">Graduate Teaching Assistant</span></strong> for ATS 601: Atmospheric Dynamics I. Colorado State University. Prof. David Thompson. Fall 2024
 
-Research Mentor for Research Experience for Undergraduates Program in Earth System Science. Colorado State University. Summer 2024
+<strong><span style="color:#1188bb">Research Mentor</span></strong> for Research Experience for Undergraduates Program in Earth System Science. Colorado State University. Summer 2024
 
-Guest Lecturer for General Circulation and Tropical Dynamics. Air Force Institute of Technology. Prof. Chandra Pasillas. Fall 2024
+<strong><span style="color:#1188bb">Guest Lecturer</span></strong> for General Circulation and Tropical Dynamics. Air Force Institute of Technology. Prof. Chandra Pasillas. Fall 2024
 
 
 ## Service
 
 ---
 
-CIRA and ATS Mentoring Program (CAMP) Leadership Team. 2024-2026.
+CIRA--Atmospheric Science Mentoring Program (CAMP), 2024-2026
 
-Summer Graduate Student Chapter Executive Board, American Meteorological Society.
-
-2022 Student Volunteer for the 35th Conference on Hurricanes and Tropical Meteorology
- 
+CSU AMS Graduate Student Chapter (FORTCAST), 2022-2024
 
 ## Field Experience
 
 ---
 
-2023 Summer BioAerosols and Convective Storms Phase II (BACS-II), Nunn, CO
+BioAerosols and Convective Storms Phase II (BACS-II), Nunn, CO. 2023
 
-2019 Spring - 2020 Fall Dust in the Salton Basin, Imperial, CA 
+Dust in the Salton Basin, Imperial, CA. 2019-2020 
 
 
 ## Honors and Awards 
 
 --- 
 
-Fall 2024 William M. Gray Award (for best technical manuscript for publication in referred literature during the previous 18-month period on research advancing understanding of the physics and dynamics of the tropical atmosphere and ocean, including hurricanes)
+<strong><span style="color:#1188bb">William M. Gray Award</span></strong> for best technical manuscript for publication in referred literature during the previous 18-month period on research advancing understanding of the physics and dynamics of the tropical atmosphere and ocean, including hurricanes. 2024
 
-Summer 2020 Philip and Elizabeth Hiestand Undergraduate Research Scholarship
+<strong><span style="color:#1188bb">Philip and Elizabeth Hiestand Undergraduate Research Scholarship</span></strong>. 2020 
 
-Summer 2019 Philip and Elizabeth Hiestand Undergraduate Research Scholarship
+<strong><span style="color:#1188bb">2019 Philip and Elizabeth Hiestand Undergraduate Research Scholarship</span></strong>. 2019
 
 
 ## Skills
@@ -93,3 +85,4 @@ Summer 2019 Philip and Elizabeth Hiestand Undergraduate Research Scholarship
 
 Programming:
 * Data Analysis: Python, Julia, Shell-scripting
+
