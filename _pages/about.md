@@ -13,7 +13,7 @@ My PhD research investigates mechanisms for initiation and organization of deep 
 
 <p align="center">
   <video autoplay loop muted playsinline width="600">
-    <source src="{{ 'Ian_hurricane_conv_lightning.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ '/images/Ian_hurricane_conv_lightning.mp4' | relative_url }}" type="video/mp4">
   </video>
 </p>
 
